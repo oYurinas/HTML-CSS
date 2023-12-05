@@ -1,2 +1,2 @@
 # HTML-CSS
-Conteúdos e exercícios 
+Conteúdos e exercícios - Curso em Video (YouTube)
